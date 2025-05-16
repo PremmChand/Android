@@ -17,13 +17,10 @@ A smart and responsive **Chatbot app** built using **Android Jetpack** component
 <!-- Row 2 -->
 <p float="left">
   <img src="assets/images/chat_screen2.png" width="48%" alt="Chat Screen 2" />
-  <img src="assets/images/chat_screen3.png" width="48%" alt="Chat Screen 3" />
+ <img src="assets/images/chat_screen4.png" width="48%" alt="Chat Screen 4" />
 </p>
 
-<!-- Row 3 -->
-<p float="left">
-  <img src="assets/images/chat_screen4.png" width="48%" alt="Chat Screen 4" />
-</p>
+
 
 ---
 
